@@ -1,8 +1,6 @@
-# Php-Edwin-Diaz-Udemy-Course
-
 # Course Name: PHP for Beginners - Become a PHP Master - CMS Project
 
-/* Course includes: 
+Course includes: 
 
 - learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla
 - learn how to use Databases
@@ -24,5 +22,3 @@
 - learn to debug (fix your code)
 - learn to use an API to bring data from a database to a graphical interface
 
-
-*/
