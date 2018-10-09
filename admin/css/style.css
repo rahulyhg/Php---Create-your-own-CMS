@@ -1,0 +1,21 @@
+#load-screen {
+    background: url(../images/header_back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    z-index: 10000;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    
+}
+
+#loading {
+    width: 500px;
+    height: 500px;
+    margin: 10% auto;
+    background: url(../images/dog_loader.gif);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
